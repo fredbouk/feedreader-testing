@@ -4,7 +4,7 @@ In this project I was given a web-based application ([Feed Reader starter code](
 
 The project contained an incomplete test suite written in the JavaScript testing framework Jasmine with only one test.
 
-My task was to analyze the HTML, CSS and JavaScript and learn how to use Jasmine to write a number of tests against the application and finish the incomplete test suite.
+My task was to analyze the HTML, CSS and JavaScript code and use Jasmine to write a number of tests against the application and finish the incomplete test suite.
 
 ## How to run the project
 
